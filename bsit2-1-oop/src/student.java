@@ -1,10 +1,10 @@
 class student {
-    String name;
-    int age;
-    String course;
-    double grade1;
-    double grade2;
-    double grade3;
+    String name = "";
+    int age = 0;
+    String course = "";
+    double grade1 = 0;
+    double grade2 = 0;
+    double grade3 = 0;
 
     student(String name, int age, String course, double grade1, double grade2, double grade3) {
         name = name;
