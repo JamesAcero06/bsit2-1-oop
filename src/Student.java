@@ -34,7 +34,6 @@ public class Student extends Abstract User {
     }
 }
 
-// Borrowable.java
 this.title = title;
 this.author = author;
 this.isCheckedOut = false;
